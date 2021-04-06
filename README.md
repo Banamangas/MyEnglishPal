@@ -1,4 +1,4 @@
-# MyEnglishPal
+# MyEnglishPal - English quizzes app
 
 ### Installation
 
@@ -8,3 +8,7 @@
 ### Running
 
 - `yarn run ios`/`npm run ios` or `yarn run android`/`npm run android`
+
+### Projet
+
+- Projet créé dans le cadre d'un cours de Marketing Mobile
