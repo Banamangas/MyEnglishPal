@@ -37,7 +37,6 @@ const styles = StyleSheet.create({
 class FinalScore extends React.Component {
 
   render() {
-    console.log(this.props.navigation.getParam());
     const correctCount = this.props.navigation.getParam("correctCount");
     const totalCount = this.props.navigation.getParam("totalCount");
 
