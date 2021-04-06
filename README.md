@@ -7,7 +7,10 @@
 
 ### Running
 
-- `yarn run ios`/`npm run ios` or `yarn run android`/`npm run android`
+- `npm start`
+- Ouvrir l'application Expo Go (Google Play : https://play.google.com/store/apps/details?id=host.exp.exponent&hl=fr / Apple Store : https://apps.apple.com/us/app/expo-client/id982107779)
+- Scanner le QR Code et vamos !
+- (Bien être sur le même réseau, le serveur est lancé en localhost)
 
 ### Projet
 
