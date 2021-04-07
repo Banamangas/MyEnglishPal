@@ -2,7 +2,7 @@
 
 ### Installation
 
-- `git clone https://github.com/ReactNativeSchool/react-native-quiz`
+- `git clone https://github.com/Banamangas/MyEnglishPal`
 - `yarn install`/`npm install`
 
 ### Running
